@@ -4,3 +4,5 @@ happy day, it's sunny. Today is Thursday.
 Git did not show me the diff command.
 
 Git is always asking me about the user name!
+
+new information
